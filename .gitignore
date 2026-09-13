@@ -1,0 +1,13 @@
+Users.csv
+Posts.csv
+Comments.csv
+Tags.csv
+*.class
+PigOutPut/
+Output/
+*.log
+__pycache__/
+.vscode/
+.idea/
+12_UsersJoinComments.txt
+*.txt
