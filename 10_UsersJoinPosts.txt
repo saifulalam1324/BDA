@@ -1,0 +1,2273 @@
+0 | 000 | 0 | 1
+
+
+
+
+0 | 000 | 0 |  ... 
+0 | 000 | 0 | 0
+
+0 | 000 | 0 | 0
+
+0 | 000 | 0 |  0.6250049090837686
+0 | 000 | 0 |  4862
+
+
+0 | 000 | 0 | 2
+
+
+0 | 000 | 0 |  0
+
+
+
+
+
+
+
+
+0 | 000 | 0 |  0
+
+0 | 000 | -2 | 1).$$  Our inequalities translate to $7m\ge 2$
+0 | 000 | 0 | 0
+
+
+
+0 | 000 | 0 |  0.036241691}</p>
+0 | 000 | 1 |  0
+
+
+
+0 | 000 | 2 |  0
+
+0 | 000 | 0 | 0)/\sqrt2$. For this to work
+
+
+
+
+
+0 | 000 | 1 |  0
+
+
+0 | 000 | 0 |  1) up to isomorphism. The Löwenheim–Skolem theorem shows that these axiomatizations cannot be first-order. For example
+
+
+
+
+
+0 | 000 | 1 | 0
+0 | 000 | 0 | 0
+
+0 | 000 | 1 |  1
+
+
+
+
+
+0 | 000 | 3 |  0.8
+
+0 | 000 | 1 | 0
+
+
+
+
+
+
+
+
+0 | 000 | -3 | 0
+
+
+
+
+0 | 000 | 0 |  $(0
+
+0 | 000 | 1 | 0
+
+
+
+
+
+0 | 000 | 1 | 0&amp;sort=&amp;language=&amp;go=Search" rel="nofollow">Online Encyclopedia of Integer Sequences</a> shows a few candidates:</p>
+0 | 000 | 1 | 0]+W$$</p>
+0 | 000 | 1 |  0</p>
+0 | 000 | 0 |  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 | 000 | 1 | 1\rangle$; it is in fact</p>
+0 | 000 | 0 |  R_y
+
+0 | 000 | 0 |  but $\{1
+
+
+
+
+
+
+0 | 000 | 1 | -1
+
+
+0 | 000 | 0 |  0
+0 | 000 | 0 |  0
+0 | 000 | 0 | 1\dots$</p>
+
+
+
+
+
+0 | 000 | 0 |  1.30512
+
+0 | 000 | 4 |  0
+
+
+
+
+
+
+
+0 | 000 | 0 |  0
+
+
+
+
+
+
+
+0 | 000 | 8 | 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 | 000 | 1 | 0
+
+
+0 | 000 | 1 |  0
+0 | 000 | 2 |  <br>
+0 | 000 | 8 |  8
+
+0 | 000 | 0 | 1
+
+
+0 | 000 | 0 |  1
+
+
+0 | 000 | 0 | 0.95
+
+
+
+0 | 000 | 4 | 0.000000306847
+
+0 | 000 | 1 | 1
+
+0 | 000 | 0 |  0.00334788
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 | 000 | 0 | 2]$)
+
+
+
+
+
+
+
+
+0 | 000 | 0 |  0
+
+0 | 000 | 0 |  0
+0 | 000 | 0 | 1
+0 | 000 | 0 |  0
+
+
+
+0 | 000 | 1 | 0
+
+
+
+
+
+
+
+
+
+
+
+0 | 000 | 1 |  <br>
+
+0 | 000 | 1 |  <br>
+0 | 000 | 1 | 1
+0 | 000 | 1 | 0
+0 | 000 | 2 | 1
+0 | 000 | 2 | 0
+
+
+
+
+
+
+
+
+
+
+
+0 | 000 | 5 |  0
+
+
+
+0 | 000 | 1 | \dots\right\}$ then add 2 more of $\left\{0
+0 | 000 | 2 |  1.79417433851
+0 | 000 | 1 |  1.77839910981
+
+
+0 | 000 | 0 |  0.026195475475160737053195360050566833997.$$
+
+
+
+
+
+
+
+
+0 | 000 | 0 | 2}
+
+
+
+0 | 000 | 1 | \frac 1{64}
+0 | 000 | 0 |  
+
+
+0 | 000 | 4 | 0
+
+
+0 | 000 | 0 | 0
+
+
+
+
+0 | 000 | 1 | 1
+
+0 | 000 | 0 | 1
+0 | 000 | 0 |  0
+
+0 | 000 | 0 | p)$ with $q-p=n\in\mathbb{Z}
+
+
+
+0 | 000 | 0 | 0
+
+0 | 000 | 1 | 0
+
+
+
+
+
+
+0 | 000 | 0 | 0
+
+0 | 000 | 0 | -1)$$</p>
+0 | 000 | 0 | 0
+
+
+0 | 000 | 0 |  \\ e_3' &amp; = (0
+0 | 000 | 0 | )
+
+0 | 000 | 0 |  -0.03088785284525199
+
+
+
+
+
+
+0 | 000 | 0 | 2)-(0
+0 | 000 | 0 |  -4.879450499229215e-10
+0 | 000 | 0 |  0.0094714
+
+
+
+
+
+0 | 000 | 0 | 0
+0 | 000 | 0 | 0
+
+0 | 000 | 2 | ...)
+
+
+
+
+
+
+
+
+
+0 | 000 | 0 |  0
+
+
+
+
+0 | 000 | 0 | 0
+
+0 | 000 | 0 | \dots
+
+
+
+
+
+
+0 | 000 | 0 |  1
+0 | 000 | 0 |  1
+
+
+0 | 000 | 0 | 0
+0 | 000 | 0 | 0
+
+
+0 | 000 | 0 | 1
+
+0 | 000 | 0 | b
+
+
+
+
+
+
+0 | 000 | 0 | (1
+
+
+
+
+
+0 | 000 | 0 | \ldots
+0 | 000 | 0 |  0
+0 | 000 | 9 | 9
+
+0 | 000 | 1 | \ldots)$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 | 000 | 0 | 0
+
+0 | 000 | 0 | 0
+
+
+0 | 000 | 0 |  9
+
+
+0 | 000 | 0 | 0)$ is in the image. Finally subtract the image of $t$ from that of $1$ to see that $(1
+
+
+
+
+
+0 | 000 | 1 |  \dots 
+
+
+
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 0 | 1
+
+
+
+
+0 |  (eg. decimal 0.017777 | 0 |  ... 
+0 |  (eg. decimal 0.017777 | 0 | 0
+
+0 |  (eg. decimal 0.017777 | 0 | 0
+
+0 |  (eg. decimal 0.017777 | 0 |  0.6250049090837686
+0 |  (eg. decimal 0.017777 | 0 |  4862
+
+
+0 |  (eg. decimal 0.017777 | 0 | 2
+
+
+0 |  (eg. decimal 0.017777 | 0 |  0
+
+
+
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 0 |  0
+
+0 |  (eg. decimal 0.017777 | -2 | 1).$$  Our inequalities translate to $7m\ge 2$
+0 |  (eg. decimal 0.017777 | 0 | 0
+
+
+
+0 |  (eg. decimal 0.017777 | 0 |  0.036241691}</p>
+0 |  (eg. decimal 0.017777 | 1 |  0
+
+
+
+0 |  (eg. decimal 0.017777 | 2 |  0
+
+0 |  (eg. decimal 0.017777 | 0 | 0)/\sqrt2$. For this to work
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 1 |  0
+
+
+0 |  (eg. decimal 0.017777 | 0 |  1) up to isomorphism. The Löwenheim–Skolem theorem shows that these axiomatizations cannot be first-order. For example
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 1 | 0
+0 |  (eg. decimal 0.017777 | 0 | 0
+
+0 |  (eg. decimal 0.017777 | 1 |  1
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 3 |  0.8
+
+0 |  (eg. decimal 0.017777 | 1 | 0
+
+
+
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | -3 | 0
+
+
+
+
+0 |  (eg. decimal 0.017777 | 0 |  $(0
+
+0 |  (eg. decimal 0.017777 | 1 | 0
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 1 | 0&amp;sort=&amp;language=&amp;go=Search" rel="nofollow">Online Encyclopedia of Integer Sequences</a> shows a few candidates:</p>
+0 |  (eg. decimal 0.017777 | 1 | 0]+W$$</p>
+0 |  (eg. decimal 0.017777 | 1 |  0</p>
+0 |  (eg. decimal 0.017777 | 0 |  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 1 | 1\rangle$; it is in fact</p>
+0 |  (eg. decimal 0.017777 | 0 |  R_y
+
+0 |  (eg. decimal 0.017777 | 0 |  but $\{1
+
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 1 | -1
+
+
+0 |  (eg. decimal 0.017777 | 0 |  0
+0 |  (eg. decimal 0.017777 | 0 |  0
+0 |  (eg. decimal 0.017777 | 0 | 1\dots$</p>
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 0 |  1.30512
+
+0 |  (eg. decimal 0.017777 | 4 |  0
+
+
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 0 |  0
+
+
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 8 | 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 1 | 0
+
+
+0 |  (eg. decimal 0.017777 | 1 |  0
+0 |  (eg. decimal 0.017777 | 2 |  <br>
+0 |  (eg. decimal 0.017777 | 8 |  8
+
+0 |  (eg. decimal 0.017777 | 0 | 1
+
+
+0 |  (eg. decimal 0.017777 | 0 |  1
+
+
+0 |  (eg. decimal 0.017777 | 0 | 0.95
+
+
+
+0 |  (eg. decimal 0.017777 | 4 | 0.000000306847
+
+0 |  (eg. decimal 0.017777 | 1 | 1
+
+0 |  (eg. decimal 0.017777 | 0 |  0.00334788
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 0 | 2]$)
+
+
+
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 0 |  0
+
+0 |  (eg. decimal 0.017777 | 0 |  0
+0 |  (eg. decimal 0.017777 | 0 | 1
+0 |  (eg. decimal 0.017777 | 0 |  0
+
+
+
+0 |  (eg. decimal 0.017777 | 1 | 0
+
+
+
+
+
+
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 1 |  <br>
+
+0 |  (eg. decimal 0.017777 | 1 |  <br>
+0 |  (eg. decimal 0.017777 | 1 | 1
+0 |  (eg. decimal 0.017777 | 1 | 0
+0 |  (eg. decimal 0.017777 | 2 | 1
+0 |  (eg. decimal 0.017777 | 2 | 0
+
+
+
+
+
+
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 5 |  0
+
+
+
+0 |  (eg. decimal 0.017777 | 1 | \dots\right\}$ then add 2 more of $\left\{0
+0 |  (eg. decimal 0.017777 | 2 |  1.79417433851
+0 |  (eg. decimal 0.017777 | 1 |  1.77839910981
+
+
+0 |  (eg. decimal 0.017777 | 0 |  0.026195475475160737053195360050566833997.$$
+
+
+
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 0 | 2}
+
+
+
+0 |  (eg. decimal 0.017777 | 1 | \frac 1{64}
+0 |  (eg. decimal 0.017777 | 0 |  
+
+
+0 |  (eg. decimal 0.017777 | 4 | 0
+
+
+0 |  (eg. decimal 0.017777 | 0 | 0
+
+
+
+
+0 |  (eg. decimal 0.017777 | 1 | 1
+
+0 |  (eg. decimal 0.017777 | 0 | 1
+0 |  (eg. decimal 0.017777 | 0 |  0
+
+0 |  (eg. decimal 0.017777 | 0 | p)$ with $q-p=n\in\mathbb{Z}
+
+
+
+0 |  (eg. decimal 0.017777 | 0 | 0
+
+0 |  (eg. decimal 0.017777 | 1 | 0
+
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 0 | 0
+
+0 |  (eg. decimal 0.017777 | 0 | -1)$$</p>
+0 |  (eg. decimal 0.017777 | 0 | 0
+
+
+0 |  (eg. decimal 0.017777 | 0 |  \\ e_3' &amp; = (0
+0 |  (eg. decimal 0.017777 | 0 | )
+
+0 |  (eg. decimal 0.017777 | 0 |  -0.03088785284525199
+
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 0 | 2)-(0
+0 |  (eg. decimal 0.017777 | 0 |  -4.879450499229215e-10
+0 |  (eg. decimal 0.017777 | 0 |  0.0094714
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 0 | 0
+0 |  (eg. decimal 0.017777 | 0 | 0
+
+0 |  (eg. decimal 0.017777 | 2 | ...)
+
+
+
+
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 0 |  0
+
+
+
+
+0 |  (eg. decimal 0.017777 | 0 | 0
+
+0 |  (eg. decimal 0.017777 | 0 | \dots
+
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 0 |  1
+0 |  (eg. decimal 0.017777 | 0 |  1
+
+
+0 |  (eg. decimal 0.017777 | 0 | 0
+0 |  (eg. decimal 0.017777 | 0 | 0
+
+
+0 |  (eg. decimal 0.017777 | 0 | 1
+
+0 |  (eg. decimal 0.017777 | 0 | b
+
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 0 | (1
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 0 | \ldots
+0 |  (eg. decimal 0.017777 | 0 |  0
+0 |  (eg. decimal 0.017777 | 9 | 9
+
+0 |  (eg. decimal 0.017777 | 1 | \ldots)$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 0 | 0
+
+0 |  (eg. decimal 0.017777 | 0 | 0
+
+
+0 |  (eg. decimal 0.017777 | 0 |  9
+
+
+0 |  (eg. decimal 0.017777 | 0 | 0)$ is in the image. Finally subtract the image of $t$ from that of $1$ to see that $(1
+
+
+
+
+
+0 |  (eg. decimal 0.017777 | 1 |  \dots 
+
+
+
+
+
+
+
+
+0 | m]*16^m | 0 | 1
+
+
+
+
+0 | m]*16^m | 0 |  ... 
+0 | m]*16^m | 0 | 0
+
+0 | m]*16^m | 0 | 0
+
+0 | m]*16^m | 0 |  0.6250049090837686
+0 | m]*16^m | 0 |  4862
+
+
+0 | m]*16^m | 0 | 2
+
+
+0 | m]*16^m | 0 |  0
+
+
+
+
+
+
+
+
+0 | m]*16^m | 0 |  0
+
+0 | m]*16^m | -2 | 1).$$  Our inequalities translate to $7m\ge 2$
+0 | m]*16^m | 0 | 0
+
+
+
+0 | m]*16^m | 0 |  0.036241691}</p>
+0 | m]*16^m | 1 |  0
+
+
+
+0 | m]*16^m | 2 |  0
+
+0 | m]*16^m | 0 | 0)/\sqrt2$. For this to work
+
+
+
+
+
+0 | m]*16^m | 1 |  0
+
+
+0 | m]*16^m | 0 |  1) up to isomorphism. The Löwenheim–Skolem theorem shows that these axiomatizations cannot be first-order. For example
+
+
+
+
+
+0 | m]*16^m | 1 | 0
+0 | m]*16^m | 0 | 0
+
+0 | m]*16^m | 1 |  1
+
+
+
+
+
+0 | m]*16^m | 3 |  0.8
+
+0 | m]*16^m | 1 | 0
+
+
+
+
+
+
+
+
+0 | m]*16^m | -3 | 0
+
+
+
+
+0 | m]*16^m | 0 |  $(0
+
+0 | m]*16^m | 1 | 0
+
+
+
+
+
+0 | m]*16^m | 1 | 0&amp;sort=&amp;language=&amp;go=Search" rel="nofollow">Online Encyclopedia of Integer Sequences</a> shows a few candidates:</p>
+0 | m]*16^m | 1 | 0]+W$$</p>
+0 | m]*16^m | 1 |  0</p>
+0 | m]*16^m | 0 |  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 | m]*16^m | 1 | 1\rangle$; it is in fact</p>
+0 | m]*16^m | 0 |  R_y
+
+0 | m]*16^m | 0 |  but $\{1
+
+
+
+
+
+
+0 | m]*16^m | 1 | -1
+
+
+0 | m]*16^m | 0 |  0
+0 | m]*16^m | 0 |  0
+0 | m]*16^m | 0 | 1\dots$</p>
+
+
+
+
+
+0 | m]*16^m | 0 |  1.30512
+
+0 | m]*16^m | 4 |  0
+
+
+
+
+
+
+
+0 | m]*16^m | 0 |  0
+
+
+
+
+
+
+
+0 | m]*16^m | 8 | 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 | m]*16^m | 1 | 0
+
+
+0 | m]*16^m | 1 |  0
+0 | m]*16^m | 2 |  <br>
+0 | m]*16^m | 8 |  8
+
+0 | m]*16^m | 0 | 1
+
+
+0 | m]*16^m | 0 |  1
+
+
+0 | m]*16^m | 0 | 0.95
+
+
+
+0 | m]*16^m | 4 | 0.000000306847
+
+0 | m]*16^m | 1 | 1
+
+0 | m]*16^m | 0 |  0.00334788
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 | m]*16^m | 0 | 2]$)
+
+
+
+
+
+
+
+
+0 | m]*16^m | 0 |  0
+
+0 | m]*16^m | 0 |  0
+0 | m]*16^m | 0 | 1
+0 | m]*16^m | 0 |  0
+
+
+
+0 | m]*16^m | 1 | 0
+
+
+
+
+
+
+
+
+
+
+
+0 | m]*16^m | 1 |  <br>
+
+0 | m]*16^m | 1 |  <br>
+0 | m]*16^m | 1 | 1
+0 | m]*16^m | 1 | 0
+0 | m]*16^m | 2 | 1
+0 | m]*16^m | 2 | 0
+
+
+
+
+
+
+
+
+
+
+
+0 | m]*16^m | 5 |  0
+
+
+
+0 | m]*16^m | 1 | \dots\right\}$ then add 2 more of $\left\{0
+0 | m]*16^m | 2 |  1.79417433851
+0 | m]*16^m | 1 |  1.77839910981
+
+
+0 | m]*16^m | 0 |  0.026195475475160737053195360050566833997.$$
+
+
+
+
+
+
+
+
+0 | m]*16^m | 0 | 2}
+
+
+
+0 | m]*16^m | 1 | \frac 1{64}
+0 | m]*16^m | 0 |  
+
+
+0 | m]*16^m | 4 | 0
+
+
+0 | m]*16^m | 0 | 0
+
+
+
+
+0 | m]*16^m | 1 | 1
+
+0 | m]*16^m | 0 | 1
+0 | m]*16^m | 0 |  0
+
+0 | m]*16^m | 0 | p)$ with $q-p=n\in\mathbb{Z}
+
+
+
+0 | m]*16^m | 0 | 0
+
+0 | m]*16^m | 1 | 0
+
+
+
+
+
+
+0 | m]*16^m | 0 | 0
+
+0 | m]*16^m | 0 | -1)$$</p>
+0 | m]*16^m | 0 | 0
+
+
+0 | m]*16^m | 0 |  \\ e_3' &amp; = (0
+0 | m]*16^m | 0 | )
+
+0 | m]*16^m | 0 |  -0.03088785284525199
+
+
+
+
+
+
+0 | m]*16^m | 0 | 2)-(0
+0 | m]*16^m | 0 |  -4.879450499229215e-10
+0 | m]*16^m | 0 |  0.0094714
+
+
+
+
+
+0 | m]*16^m | 0 | 0
+0 | m]*16^m | 0 | 0
+
+0 | m]*16^m | 2 | ...)
+
+
+
+
+
+
+
+
+
+0 | m]*16^m | 0 |  0
+
+
+
+
+0 | m]*16^m | 0 | 0
+
+0 | m]*16^m | 0 | \dots
+
+
+
+
+
+
+0 | m]*16^m | 0 |  1
+0 | m]*16^m | 0 |  1
+
+
+0 | m]*16^m | 0 | 0
+0 | m]*16^m | 0 | 0
+
+
+0 | m]*16^m | 0 | 1
+
+0 | m]*16^m | 0 | b
+
+
+
+
+
+
+0 | m]*16^m | 0 | (1
+
+
+
+
+
+0 | m]*16^m | 0 | \ldots
+0 | m]*16^m | 0 |  0
+0 | m]*16^m | 9 | 9
+
+0 | m]*16^m | 1 | \ldots)$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 | m]*16^m | 0 | 0
+
+0 | m]*16^m | 0 | 0
+
+
+0 | m]*16^m | 0 |  9
+
+
+0 | m]*16^m | 0 | 0)$ is in the image. Finally subtract the image of $t$ from that of $1$ to see that $(1
+
+
+
+
+
+0 | m]*16^m | 1 |  \dots 
+
+
+
+
+
+
+
+
+3 |  1 | 1 |  that there could be a way of achieving the same result without having to produce all the partitions as the first step. Any ideas?</p>
+
+3 |  1 | 1 | 1
+
+
+
+
+3 |  1 | 2 | 2)$ respectively $(4
+
+
+3 |  1 | 10 | 8
+3 |  1 | 7 |  2}
+3 |  1 | 1 |  1
+3 |  1 | 1 |  2
+3 |  1 | 2 |  3
+3 |  1 | 1 | 8
+3 |  1 | 1 | 8
+
+
+
+
+3 |  1 | 2 | 3 \dots 4
+
+
+
+3 |  1 | -2 | 1+3t\rangle=\langle 1+4s
+
+
+
+
+
+
+
+
+
+
+
+
+3 |  1 | 3 |  3
+3 |  1 | 2 |  (4
+3 |  1 | 2 |  (3
+
+
+3 |  1 | 7 |  K)$.</p>
+
+3 |  1 | 3 | $$</p>
+
+3 |  1 | 3 |  8
+
+
+
+
+
+
+
+3 |  1 | 0 | 7)$; i.e.
+
+
+
+3 |  1 | 4 | 3
+
+
+
+
+3 |  1 | 3 | 3
+
+
+
+3 |  1 | 5 | 4
+
+3 |  1 | 7 | 2
+3 |  1 | 3 | (3
+3 |  1 | 5 |  3
+
+
+
+
+
+
+
+3 |  1 | 8 | 9). This last statement defines that every single node in the first set is connected to each node of the second set. Both sets can have a maximum of 5 elements each. Also
+
+
+3 |  1 | 3 | 3
+3 |  1 | 3 |  4]
+3 |  1 | 3 |  16)$.</p>
+3 |  1 | 4 |  2
+
+
+
+3 |  1 | 8 |  2
+
+
+
+
+3 |  1 | 2 | 1}\;
+
+
+3 |  1 | 10 | 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 |  1 | 3 |  3.05
+
+
+
+
+3 |  1 | 8 |  we see that the vector $(1
+
+3 |  1 | 4 | 3
+
+
+
+
+3 |  1 | 4 | 0
+
+
+3 |  1 | 3 | n_4
+
+
+3 |  1 | 12 |  2
+3 |  1 | 3 |  7
+
+3 |  1 | 5 |  $(4
+
+3 |  1 | 0 | \dots\rangle$?</p>
+3 |  1 | 3 | 8]$.  An empty queue has both $f$ and $b$ empty
+
+3 |  1 | 3 | 2
+3 |  1 | 3 | 2
+3 |  1 | 3 | 2
+3 |  1 | 3 | 2
+3 |  1 | 3 | 2
+3 |  1 | 6 | n-4
+3 |  1 | 3 | 3\}$. This makes sense because swapping two things twice shouldn't have any effect. Similarly
+
+
+
+
+
+
+3 |  1 | 4 |  3
+3 |  1 | 19 |  11
+
+
+
+3 |  1 | 3 | 8
+3 |  1 | 4 | 1
+3 |  1 | 3 | 2
+
+
+
+3 |  1 | 3 | 4
+
+
+
+
+
+3 |  1 | 3 |  2
+
+
+
+
+3 |  1 | 2 | (1
+3 |  1 | 3 |  2$
+
+3 |  1 | 5 |  ruling out $(d)$ as being a correct answer.</p>
+
+
+
+
+
+3 |  1 | 3 |  3
+
+3 |  1 | 5 | 8
+
+
+
+3 |  1 | 1 |  the solution is $(2
+
+3 |  1 | 0 | 0
+3 |  1 | 3 | 3$
+
+3 |  1 | 3 | z_0) \leq_{t} (x_1
+3 |  1 | 5 | 7
+3 |  1 | 3 |  6
+
+3 |  1 | 10 |  1
+
+7 |  HX6 SALOON £70 MINIBUS 5 | 3 |  $\{4
+
+7 |  HX6 SALOON £70 MINIBUS 5 | 4 |  2
+
+
+
+
+
+
+
+7 |  HX6 SALOON £70 MINIBUS 5 | 2 | 2
+
+
+
+
+
+7 |  HX6 SALOON £70 MINIBUS 5 | 7 | 1
+7 |  HX6 SALOON £70 MINIBUS 5 | 7 | 1
+
+
+
+
+7 |  HX6 SALOON £70 MINIBUS 5 | 6 |  7
+
+
+
+7 |  HX6 SALOON £70 MINIBUS 5 | 3 | 1.$</p>
+7 |  HX6 SALOON £70 MINIBUS 5 | 12 | 9
+7 |  HX6 SALOON £70 MINIBUS 5 | 7 |  [ (1
+
+7 |  HX6 SALOON £70 MINIBUS 5 | 3 |  2
+7 |  HX6 SALOON £70 MINIBUS 5 | 5 |  8
+
+
+
+7 |  HX6 SALOON £70 MINIBUS 5 | 83 | 01
+
+7 |  HX6 SALOON £70 MINIBUS 5 | 3 | 3
+7 |  HX6 SALOON £70 MINIBUS 5 | 1 |  1
+
+
+7 |  HX6 SALOON £70 MINIBUS 5 | 12 |  1
+
+7 |  HX6 SALOON £90 MINIBUS 5 | 3 |  $\{4
+
+7 |  HX6 SALOON £90 MINIBUS 5 | 4 |  2
+
+
+
+
+
+
+
+7 |  HX6 SALOON £90 MINIBUS 5 | 2 | 2
+
+
+
+
+
+7 |  HX6 SALOON £90 MINIBUS 5 | 7 | 1
+7 |  HX6 SALOON £90 MINIBUS 5 | 7 | 1
+
+
+
+
+7 |  HX6 SALOON £90 MINIBUS 5 | 6 |  7
+
+
+
+7 |  HX6 SALOON £90 MINIBUS 5 | 3 | 1.$</p>
+7 |  HX6 SALOON £90 MINIBUS 5 | 12 | 9
+7 |  HX6 SALOON £90 MINIBUS 5 | 7 |  [ (1
+
+7 |  HX6 SALOON £90 MINIBUS 5 | 3 |  2
+7 |  HX6 SALOON £90 MINIBUS 5 | 5 |  8
+
+
+
+7 |  HX6 SALOON £90 MINIBUS 5 | 83 | 01
+
+7 |  HX6 SALOON £90 MINIBUS 5 | 3 | 3
+7 |  HX6 SALOON £90 MINIBUS 5 | 1 |  1
+
+
+7 |  HX6 SALOON £90 MINIBUS 5 | 12 |  1
+
+8 | 4 k=1 and for n=6 | 4 | y)$ with $x+y=4 \wedge x \leq 5 \wedge y \leq 3$.</p>
+
+
+8 | 4 k=1 and for n=6 | 4 | 5)]
+8 | 4 k=1 and for n=6 | 19 | 17
+
+
+
+
+
+
+
+
+
+
+
+
+
+8 | 4 k=1 and for n=6 | 2 |  4
+8 | 4 k=1 and for n=6 | 5 |  3
+
+8 | 4 k=1 and for n=6 | 26 |  29...</strong>.
+8 | 4 k=1 and for n=6 | 8 | 15
+
+8 | 4 k=1 and for n=6 | 5 |  11
+
+8 | 4 k=1 and for n=6 | 3 | 5
+
+8 | 4 k=1 and for n=6 | 4 |  because $x + 4$ is in the same equivalence class as $x + 7$ (which is the same as the class of $x + 1$
+8 | 4 k=1 and for n=6 | 8 | 1
+
+
+
+8 | 4 k=1 and for n=6 | 8 | 1
+
+
+
+8 | 3 | 4 | y)$ with $x+y=4 \wedge x \leq 5 \wedge y \leq 3$.</p>
+
+
+8 | 3 | 4 | 5)]
+8 | 3 | 19 | 17
+
+
+
+
+
+
+
+
+
+
+
+
+
+8 | 3 | 2 |  4
+8 | 3 | 5 |  3
+
+8 | 3 | 26 |  29...</strong>.
+8 | 3 | 8 | 15
+
+8 | 3 | 5 |  11
+
+8 | 3 | 3 | 5
+
+8 | 3 | 4 |  because $x + 4$ is in the same equivalence class as $x + 7$ (which is the same as the class of $x + 1$
+8 | 3 | 8 | 1
+
+
+
+8 | 3 | 8 | 1
+
+
+
+
+
+
+9 | Eric O. Korman | 16 | 20
+9 | Eric O. Korman | 18 | 7
+
+
+9 | Eric O. Korman | 12 | 26
+9 | Eric O. Korman | 5 |  1
+9 | Eric O. Korman | 12 |  ...$</p>
+
+
+
+9 | Eric O. Korman | 4 | 13
+
+
+
+
+
+
+
+
+9 | Eric O. Korman | 9 | 9
+
+9 | Eric O. Korman | 9 | 9
+9 | Eric O. Korman | 9 | 9
+9 | Eric O. Korman | 9 | 9
+9 | Eric O. Korman | 9 | 9
+
+9 | Eric O. Korman | 9 | 9
+9 | Eric O. Korman | 3 | 7
+
+9 | Eric O. Korman | 72 |  48
+
+
+
+
+10 | Allain Lalonde | 1 |  001
+
+
+
+10 | Allain Lalonde | 1 | 60.</p>
+10 | Allain Lalonde | 3 | 10
+10 | Allain Lalonde | 10 | 1)
+10 | Allain Lalonde | 12 | 12
+
+10 | Allain Lalonde | 1 |  and $1010$
+
+
+
+
+
+
+
+
+10 | Allain Lalonde | 6 | 1
+
+
+
+10 | Allain Lalonde | 20 |  the proper approach is a combination of ideas and brute force. By the way
+
+
+
+
+
+10 | Allain Lalonde | 6 |  the author doesn't really have a conclusion
+
+
+10 | Allain Lalonde | 10 |  11
+
+
+10 | Allain Lalonde | 11 | 7
+
+10 | Allain Lalonde | 1 |  16
+
+
+
+
+
+
+10 | Allain Lalonde | 11 | 14
+
+
+
+11 | sepp2k | 7 |  18
+
+
+
+
+
+11 | sepp2k | 10 | 11.8
+
+
+
+
+11 | sepp2k | 3 | 7
+11 | sepp2k | 6 |  3
+
+12 |  9 | 0 |  23
+
+
+
+
+
+
+
+12 |  9 | 6 | ?$$
+12 |  9 | 6 |  10
+12 |  9 | 1 |  33
+12 |  9 | 10 |  15
+12 |  9 | 11 | (6
+
+
+
+
+
+12 |  9 | -3 |  40
+12 |  9 | 2 |  22
+
+13 | Tara | 7 |  19
+
+13 | Tara | 7 |  20}</p>
+
+13 | Tara | 7 |  19
+13 | Tara | 7 |  19
+
+
+
+
+
+13 | Tara | 7 | 18
+13 | Tara | 8 |  19
+
+13 | Tara | 18 | 13
+13 | Tara | 3 |  ...
+
+13 | Tara | 98 |  268
+13 |  7 | 7 |  19
+
+13 |  7 | 7 |  20}</p>
+
+13 |  7 | 7 |  19
+13 |  7 | 7 |  19
+
+
+
+
+
+13 |  7 | 7 | 18
+13 |  7 | 8 |  19
+
+13 |  7 | 18 | 13
+13 |  7 | 3 |  ...
+
+13 |  7 | 98 |  268
+
+15 | MartyIX | 9 |  20
+15 | MartyIX | 9 |  14
+15 | MartyIX | 9 |  20
+15 | MartyIX | 9 |  20
+15 | MartyIX | 9 |  20
+
+
+15 | MartyIX | 9 |  20
+15 | MartyIX | 9 |  20
+
+15 | MartyIX | 9 |  10
+15 | MartyIX | 0 |  0
+15 | MartyIX | 9 |  20
+15 | MartyIX | 0 |  0
+15 | MartyIX | 13 |  23
+15 | MartyIX | 9 |  20
+15 | MartyIX | 9 | 20);
+
+15 | MartyIX | 9 |  20
+15 | MartyIX | 9 | 20
+
+15 | MartyIX | 5 | 28
+
+15 | MartyIX | 1 | 7
+
+
+
+
+
+15 | MartyIX | 57 | 0
+15 | MartyIX | 9 |  20</p>
+
+15 | MartyIX | 6 | \
+
+
+15 | MartyIX | 9 | 20\}$</span>
+15 | MartyIX | 9 | \
+
+15 | MartyIX | 30 |  
+15 | MartyIX | 9 | 20\}$
+15 | MartyIX | 9 | 5
+
+15 | MartyIX | 9 | 20
+15 | MartyIX | 6 |  22
+15 | MartyIX | 9 | 20
+15 | MartyIX | 5 |  23
+
+
+
+19 | Ami | 14 | 9
+19 | Ami | 27 |  41
+19 | Ami | 8 | 31
+19 | Ami | 29 | 90
+19 | Ami | 11 | 26
+19 | Ami | 11 | 27
+19 | Ami | 11 | 28
+19 | Ami | 11 | 26
+
+19 | Ami | 11 | 28
+19 | Ami | 11 | 25
+19 | Ami | 11 | \
+19 | Ami | 10 |  therefore these are the only numbers which may be squares modulo 24.</p>
+
+
+
+
+
+27 | MojoFilter | 11 |  41
+27 | MojoFilter | 11 |  47.4
+
+28 | Kim Morrison | 20 | 35
+28 | Kim Morrison | 8 |  10
+
+
+
+
+28 | Kim Morrison | 15 | 27
+
+
+
+34 | Paul B | 20 |  41
+
+
+
+34 | Paul B | 31 | (8
+34 | Paul B | 17 | 30)(11
+
+35 | workmad3 | 9 |  \cdots \} \\ &amp;\vdots \end{align} $$</p>
+
+
+
+
+35 | workmad3 | 23 |  45
+
+
+37 | cobbal | 231 |  221
+39 | Bruno Loff | 32 |  48
+39 | Bruno Loff | 32 |  50
+39 | Bruno Loff | 32 |  48
+39 | Bruno Loff | 32 |  48
+39 | Bruno Loff | 32 |  48
+39 | Bruno Loff | 30 |  48
+39 | Bruno Loff | 30 |  48
+39 | Bruno Loff | 28 |  50
+39 | Bruno Loff | 30 |  48
+39 | Bruno Loff | 30 |  48
+39 | Bruno Loff | 30 |  48
+39 | Bruno Loff | 32 |  48
+39 | Bruno Loff | 30 |  50
+39 | Bruno Loff | 32 | 48
+39 | Bruno Loff | 32 |  50
+
+39 | Bruno Loff | 18 |  49
+42 | 2 | 274 |  42
+42 | 2 | 32 |  52
+42 | 2 | 24 |  52
+45 | Sophie Alpert | 44 | 45
+45 | Sophie Alpert | 59 | {31
+
+
+
+
+
+46 | 105 | 21 | 83)(40
+
+46 | Bas Bossink | 21 | 83)(40
+47 | David Barry | 23 |  71
+47 | David Barry | 23 | 71
+47 | David Barry | 23 |  71
+47 | David Barry | 23 | 
+47 | David Barry | 23 |  71
+47 | David Barry | 23 | 71
+47 | David Barry | 23 |  71
+47 | David Barry | 23 | 71
+
+49 | 49 | 27 |  67
+49 | 49 | 70 | 100$ with four square roots.  Each contributes sixteen ordered pairs and $u= \pm v$ in half of them.  There are six squares
+49 | 49 | 9 |  200
+
+52 | Elazar Leibovich | 36 |  65
+52 | Elazar Leibovich | 40 | 63
+
+52 | Elazar Leibovich | 28 |  72
+
+55 | Fanfan | 21 |  89
+58 | user58 | 50 |  
+58 |  73 | 50 |  
+59 | James Eichele | 35 |  79
+59 | James Eichele | 13 |  \
+
+64 | Bossykena | 16 |  288
+64 | Bossykena | 38 | 96
+
+64 | Bossykena | 30 |  94
+64 | Bossykena | 36 |   89
+
+
+66 | Jon Bringhurst | 33 | 124)(10
+
+
+78 | Rob Lachlan | 56 | 96
+78 | Rob Lachlan | 60 |  and to reach higher numbers you will reach one of them. So
+
+78 | Rob Lachlan | 46 |  100
+
+
+
+
+
+
+102 | c4il | 23 |  237
+105 | 104 | 20 |  420
+
+105 | 104 | 36 | ...\}$.</p>
+105 | Sami | 20 |  420
+
+105 | Sami | 36 | ...\}$.</p>
+105 |  109 | 20 |  420
+
+105 |  109 | 36 | ...\}$.</p>
+
+110 | bmargulies | 111 | 103
+
+111 | 110 | 9 | 135
+
+
+
+111 | 110 | 103 |  72
+112 | hiena | 770 | 101
+112 | hiena | 18 | 113
+112 | hiena | 51 |  196
+117 | Jamin | 17 |  ...
+120 | Jason S | 45 |  210
+120 | Jason S | 48 | 210
+
+
+128 | donroby | 127 |  128.96
+129 | dsolimano | 13 |  872
+129 | dsolimano | 13 |  872
+
+
+134 | MathZombie | 21 |  489
+145 | AgCl | 85 |  195
+145 | AgCl | 118 |  6
+
+151 | Abdulsattar Mohammed | 236 |  270
+
+156 | Adam C. | 84 |  192
+
+160 | Tom Boardman | 280 |  5
+
+166 | James | 149 |  236
+170 | cindi | 90 | 250\}$</p>
+
+171 | kennytm | 4433 | 
+177 | Buddy48783 | 129 |  237
+
+
+
+
+209 | eds | 294 | $$</span>
+227 | Vortico | 107 | 317
+233 | Andrea Ferretti | 13 | 2584
+233 | Andrea Ferretti | 148 |  25
+
+254 | Will A | 152 |  308
+263 | Kevin H. Lin | 113 |  577
+
+267 | jkottnauer | 523 | 881
+276 | Roy Maclean | 110 |  506
+293 | Rodrigo | 416 |  126
+
+340 | Lukas | 41 |  6380
+
+
+
+
+
+
+
+
+505 | Jens | 636 | 000
+
+533 | Jukka Suomela | 425 |  689
+
+
+
+
+
+
+576 | Dalron | 376 | 732
+583 | Jack Schmidt | 1 |  3
+
+
+
+
+
+
+707 | HenrikRueping | 494 |  788
+
+727 | John Weldon | 181 |  929
+727 | John Weldon | 181 |  929
+751 | James | 599 | 823
+771 | Kristal | 31110 |  but I leave the details as exercises. </p>
+809 | pageman | 521 | 587
+822 | Nate Eldredge | 214558 | 
+
+945 | Teja Kantamneni | 567 |  \color{red}{1260}$</p>
+
+
+
+
+
+
+
+
+
+
+
+1424 | Jonas Meyer | 97225 | 
+
+1453 | zenna | 610 |  2020
+
+
+1827 | Ross Millikan | 564312 | 
+1827 | Ross Millikan | 564311 | 
+1884 | ShyPerson | 30399 | 
+1884 | ShyPerson | 30035 | 
+1884 | ShyPerson | 30038 | 
+1884 | ShyPerson | 30394 | 
+1884 | ShyPerson | 29889 | 
+1884 | ShyPerson | 30033 | 
+1884 | ShyPerson | 29956 | 
+1907 | Down | 1901 |  1912
+
+
+2284 | hey | 4302 | 1347
+2466 | Nate | 46 |  76659
+2549 | Xodarap | 937921 | 
+
+2777 | Alex | 1993 |  3761
+5010 | minasteris | 4474 | 5010
+5012 | Nemi | 88 | 147146
+5465 | Thomas Connor | 39607 | 
+5902 | hhh | 261620 | 
+6460 | Henry | 518254 | 
+6460 | Henry | 515187 | 
+6460 | Henry | 515188 | 
+7028 | ΤΖΩΤΖΙΟΥ | 32535 | 
+7149 | Templar | 27654 | 
+7149 | Templar | 28160 | 
+8671 | GeoffDS | 198664 | 
+8671 | GeoffDS | 198569 | 
+
+10043 | Raziel | 35076 | 
+
+10905 | Amelie Turgeon | 98 | \ldots $$
+11171 | Silas Pike | 44447 | 
+11265 | Andrew | 170625 | 
+11265 | Andrew | 170627 | 
+12523 | sdcvvc | 436434 | 
+12686 | Karatuğ Ozan Bircan | 99234 | 
+
+15195 | Bhargav | 64434 | 
+15641 | gareth | 2081 |  19421
+15870 | RougeSegwayUser | 113314 | 
+19603 | talmid | 161712 | 
+
+22335 | favq | 148709 | 
+22335 | favq | 148969 | 
+22335 | favq | 148944 | 
+22335 | favq | 148932 | 
+22335 | favq | 148909 | 
+25683 | Lyapunov | 163866 | 
+27624 | Argon | 165958 | 
+27624 | Argon | 165948 | 
+27624 | Argon | 165944 | 
+27624 | Argon | 165956 | 
+28743 | Nathaniel Bubis | 635411 | 
+28743 | Nathaniel Bubis | 1046327 | 
+30066 | John | 137480 | 
+31288 | Eugene | 159174 | 
+31288 | Eugene | 159194 | 
+31288 | Eugene | 159188 | 
+31288 | Eugene | 159573 | 
+31288 | Eugene | 165575 | 
+31475 | Emily | 796290 | 
+
+
+34003 | Popopo | 229416 | 
+36150 | saz | 326491 | 
+36150 | saz | 1202789 | 
+36150 | saz | 825579 | 
+36434 | Seirios | 482865 | 
+37459 | A.D | 395356 | 
+37459 | A.D | 425164 | 
+39599 | Michael Albanese | 831461 | 
+39599 | Michael Albanese | 831886 | 
+39599 | Michael Albanese | 832648 | 
+39599 | Michael Albanese | 831649 | 
+39599 | Michael Albanese | 831862 | 
+39599 | Michael Albanese | 831689 | 
+39599 | Michael Albanese | 831909 | 
+39599 | Michael Albanese | 832691 | 
+39599 | Michael Albanese | 831707 | 
+39599 | Michael Albanese | 482775 | 
+39599 | Michael Albanese | 482946 | 
+39599 | Michael Albanese | 482805 | 
+39599 | Michael Albanese | 892516 | 
+39599 | Michael Albanese | 893149 | 
+39599 | Michael Albanese | 875507 | 
+39599 | Michael Albanese | 875622 | 
+39599 | Michael Albanese | 893160 | 
+39599 | Michael Albanese | 1081156 | 
+39599 | Michael Albanese | 1075799 | 
+39599 | Michael Albanese | 1080926 | 
+39599 | Michael Albanese | 1077773 | 
+39599 | Michael Albanese | 1078581 | 
+39599 | Michael Albanese | 1078572 | 
+39599 | Michael Albanese | 1078387 | 
+39599 | Michael Albanese | 1081138 | 
+39599 | Michael Albanese | 1078251 | 
+39599 | Michael Albanese | 1075787 | 
+39599 | Michael Albanese | 1075281 | 
+39599 | Michael Albanese | 1081161 | 
+39599 | Michael Albanese | 1078358 | 
+39599 | Michael Albanese | 1077329 | 
+39599 | Michael Albanese | 1081126 | 
+39599 | Michael Albanese | 1078175 | 
+39599 | Michael Albanese | 1080920 | 
+39599 | Michael Albanese | 1080774 | 
+39599 | Michael Albanese | 1080929 | 
+39599 | Michael Albanese | 1078563 | 
+39599 | Michael Albanese | 538844 | 
+39599 | Michael Albanese | 538819 | 
+39599 | Michael Albanese | 537874 | 
+39599 | Michael Albanese | 537868 | 
+39599 | Michael Albanese | 537542 | 
+39599 | Michael Albanese | 538104 | 
+42457 | ajmartin | 344043 | 
+43798 | guest196883 | 335421 | 
+43823 | TheRealFakeNews | 345401 | 
+
+44877 | Lost1 | 629632 | 
+44877 | Lost1 | 627509 | 
+44877 | Lost1 | 627505 | 
+44877 | Lost1 | 629648 | 
+44877 | Lost1 | 629651 | 
+44877 | Lost1 | 629665 | 
+44877 | Lost1 | 627502 | 
+44877 | Lost1 | 627494 | 
+44877 | Lost1 | 361486 | 
+44877 | Lost1 | 356456 | 
+45008 | Andrew Uzzell | 257104 | 
+45174 | Jeroen | 395578 | 
+45554 | Davidenko | 1122033 | 
+46389 | MosesA | 357580 | 
+48235 | Eric M. Schmidt | 1194863 | 
+49437 | Martin | 406679 | 
+49437 | Martin | 407586 | 
+49437 | Martin | 407591 | 
+49437 | Martin | 400608 | 
+51970 | Brian Rushton | 418957 | 
+51970 | Brian Rushton | 408152 | 
+51970 | Brian Rushton | 412606 | 
+54321 | rtzll | 255497 | 
+55235 | Git Gud | 749903 | 
+55235 | Git Gud | 600439 | 
+55235 | Git Gud | 1022706 | 
+55235 | Git Gud | 1022704 | 
+55235 | Git Gud | 1021084 | 
+59273 | MITjanitor | 325328 | 
+59273 | MITjanitor | 325343 | 
+59273 | MITjanitor | 324835 | 
+59273 | MITjanitor | 325324 | 
+59360 | mez | 629733 | 
+60687 | Gene Arboit | 294103 | 
+60687 | Gene Arboit | 295501 | 
+60687 | Gene Arboit | 294107 | 
+60810 | Vishal Gupta | 553142 | 
+65034 | Jared | 334047 | 
+65034 | Jared | 391801 | 
+70305 | Pedro | 617672 | 
+70305 | Pedro | 555023 | 
+71191 | Dr René J-M Grognard | 38351 |  90053$$</p>
+76210 | ABC | 1255684 | 
+76533 | Jaycob Coleman | 463382 | 
+77961 | benjamin_ee | 492867 | 
+78317 | dustin | 1074155 | 
+78317 | dustin | 1063406 | 
+78317 | dustin | 1064493 | 
+78317 | dustin | 1072297 | 
+78317 | dustin | 1074153 | 
+78317 | dustin | 1070049 | 
+78317 | dustin | 1070042 | 
+78317 | dustin | 1063378 | 
+78317 | dustin | 1067192 | 
+78317 | dustin | 1027735 | 
+78317 | dustin | 1027092 | 
+78317 | dustin | 1027738 | 
+81790 | Empy2 | 1202232 | 
+88652 | Amir Kazemi | 465598 | 
+107671 | user26486 | 1241881 | 
+
+117757 | Kal S. | 777896 | 
+117757 | Kal S. | 796151 | 
+134447 | mrp | 1144134 | 
+139123 | David K | 1183013 | 
+139123 | David K | 1183003 | 
+165464 | anonymous | 64232 |  262656
+215528 | John Nicholson | 1181146 | 
+
+346185 | Stoner | 943443 | 
+360360 | Iris | 840 |  232792560
+360360 | Iris | 840 |  232792560
+578299 | alvinski | 493627 | 
+614333 | Dan | 53441 | 171553\}.$</p>
+
+
+
+1202604 | filype | 2980 | 178482300
+-12 |  -18.29 | 0 |  0
